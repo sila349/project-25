@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none underline line-through;
+
+}
+.hero{
+    text-decoration: none underline line-through;
+
+}
+.antor{
+   color: #ff6633 !important;
+    border: #ff6633 !important;
+    
+}
+
+.antor:hover{
+    background-color: #ff6633;
+    border:1px solid #ff6633;
+}
+
+
+#hero{
+    background: url(../img/Musicology.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;}
+
+    
+.text-one{
+    font-size: 81px!important;
+    margin-top: 250px !important;
+
+}
+.text-two{
+    font-size: 20px!important;
+    margin-top: 40px !important;
+}
+
+.bigbtn{
+    padding: 7px 70px;
+    background-color: #ff6633;
+    color: white;
+    margin-top: 50px;
+    text-transform: uppercase; 
+}
+.bigbtn:hover{
+background-color: maroon;
+border: #ff6633;
+}
+
+#dance-tour{
+
+    background: url(../img/ddg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+
+.dan{
+    font-size: 20px;
+}
+
+#pricing{
+    background:url(../img/blackdesign.png);
+    
+}
+.pri{
+    font-size: 20px;
+}
+.img{
+    width: 10px important;
+    height: 10px important;
+}
+.bg1{
+    background-image: url(../img/design.png);
+    color: antiquewhite;
+}
+.card{
+    background-color: #ff6633;
+    height: 400px;
+    width: 300px;
+    position:evently ;
+    align-items: center;
+}
+.dollor{
+ 
+    padding: 7px 95px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+.dollor:hover{
+background-color:aqua;
+}
+#amazing{
+background: url(../img/whihet.png);
+}
+.img1{
+    height: 800px;
+   
+}
+
+.amazing-writing-part{
+    text-align: center;
+    margin-top: 300px;
+
+}
+
+.btnc{
+    padding: 7px 95px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+.btnc:hover{
+    background-color: #330000;
+    border: #333333;
+}
+.ama{
+    font-size: 20px;
+}
+#best-dance{
+    background:url(../img/whihet.png);
+
+}
+.pra{
+    font-size: 20px;
+}
+.writing-part{
+    text-align: center;
+    margin-top: 300px;
+}
+.wbtn{
+    padding: 7px 50px;
+    background-color:rgb(12, 12, 12);
+    color: white;
+    margin-top: 80px;}
+
+    .wbtn:hover{
+background-color: maroon;
+    }
+
+#statistics{
+    background-color:#333333 ;
+    height: 400px;
+    }
+    .sta{
+font-size: 20px;
+    }
+    #simon{
+        background-image: url(../img/boyred.png);
+        background-color: #330000 ;
+        height: 650px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+   
+}
+.writing{
+    margin-top: 90px!important;
+}
+    
+.writinga{
+    margin-top: 90px!important; 
+    font-size: 20px;
+    
+}
+
+#subscribe{
+    background: url(../img/dobledes.png) ;
+    height: 300px;
+
+}
+.subscribe-writing-part{
+text-align: center;
+}
+
+.sub{
+    font-size: 20px;
+}
+
+
+
+.inputa{
+    
+    padding: 10px 40px;
+    margin-right: -5px;
+    display-inline:block;
+    margin: auto;
+    } 
+
+
+.inputt{
+background-color: black;
+color: aliceblue;
+padding: 10px 15px;
+text-transform: uppercase;
+}
+.inputt:hover{
+    background-color: maroon;
+}
+#footer{
+    background-color: #333333;
+}
+.texta{
+    text:white
+}
+.input-t{
+    text-align: center;
+    margin: 0px;
+}
+.h1{
+    font-size: 40px;
+    font-weight: 20px;
+}
+.p{
+    font-size: 20px;
+}
+
+.icons{
+    background: rgb(85, 81, 81);
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    margin:0 5px;
+    border-radius: 95%;
+    width: 40px;
+    margin-top: 40px;
+    font-weight: 30px;
+}
+    
+
